@@ -3,4 +3,4 @@ print("This course by Harry that is provided for free on youtube needs a student
 print("So far people have come up with good reviews on this course which made me try out and get started with the course on Python")
 print("So far people have come up with good reviews on this course which made me try out and get started with the course on Python")
 print("have a good day")
-print("have a nice weekend")
+
